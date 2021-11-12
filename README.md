@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Irfan Khan
-- 👀 I’m interested in Web and Machine Learning
 - 🌱 I’m Graduated in Computer Science
+- 👀 Node Api Developer
+
