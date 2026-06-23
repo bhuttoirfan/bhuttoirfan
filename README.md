@@ -25,4 +25,4 @@ I build scalable SaaS platforms, APIs, and automation systems with Node.js, Pyth
 
 ---
 
-💼 [LinkedIn](https://www.linkedin.com/in/irfan---khan/) · 🌐 Portfolio (coming soon)
+💼 [LinkedIn](https://www.linkedin.com/in/irfan---khan/) · 🌐([Portfolio](https://bhuttoirfan.github.io/))
